@@ -1,4 +1,4 @@
-#AD DS Nicolai
+#AD DS
 **Configureren van statisch netwerking**
 
 

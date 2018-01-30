@@ -1,4 +1,4 @@
-#DNS Nicolai
+#DNS
 
 **Configureren van zones in DNS**
 

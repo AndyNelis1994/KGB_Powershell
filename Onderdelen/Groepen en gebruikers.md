@@ -1,4 +1,4 @@
-#Groepen en gebruikers Nicolai
+#Groepen en gebruikers
 
 **Users in AD aanmaken**
 

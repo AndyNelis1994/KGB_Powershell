@@ -1,4 +1,4 @@
-#DHCP Nicolai
+#DHCP
 
 **Configureren van DHCP scopes**
 
