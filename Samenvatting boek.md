@@ -149,7 +149,7 @@ Oproepen door:
 
 **Opnemen van alle commando's tijdens powershell sessie** in apart document om later terug te kunnen bekijken
 
-    Start-Transcript -Path C:\Gebruikers/Nicolai/Documenten
+    Start-Transcript -Path C:\Gebruikers/ANLS/Documenten
 	Stop-Transcript
 
 **Email laten sturen als er bijvoorbeeld een bepaalde taak achter de rug is**
